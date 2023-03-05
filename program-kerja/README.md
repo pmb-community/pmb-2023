@@ -83,6 +83,8 @@ Informatika dan Bisnis Digital ITK.
       Bisnis Digital ITK.
 - [ ] Melakukan analisis data pemetaan minat dan bakat mahasiswa Informatika dan
       Bisnis Digital ITK.
+- [ ] Melakukan koordinasi dengan MEDFO untuk memposting form pemetaan minat dan
+      bakat mahasiswa Informatika dan Bisnis Digital ITK di OA (Instagram) HMIF.
 - [ ] Membuat laporan hasil pemetaan minat dan bakat mahasiswa Informatika dan
       Bisnis Digital ITK apakah sudah mencapai [TUK](#tolak-ukur-keberhasilan)
       atau belum. yang sudah disepakati sebelumnya.
