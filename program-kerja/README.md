@@ -179,7 +179,6 @@ dipelajari.
 #### Penanggung Jawab
 
 - Mochamad Sa'adila Effendi
-- ...
 
 #### Tolak Ukur Keberhasilan
 
@@ -225,33 +224,79 @@ dipelajari.
 
 #### Deskripsi
 
-Undefined
+Kegiatan mahasiswa untuk melatih, membimbing, dan mengajarkan ilmu sesuai dengan
+minat dan bakat masing-masing mahasiswa Informatika dan Bisnis Digital ITK.
 
 #### Tujuan
 
-Undefined
+Menyediakan sarana pelatihan dan pembelajaran terkait minat dan bakat
+masing-masing mahasiswa Informatika dan Bisnis Digital ITK untuk membangkitkan
+semangat berkompetisi dan berprestasi.
 
 #### Penanggung Jawab
 
-- Undefined
-- ...
+- Ersan Karimi
 
 #### Tolak Ukur Keberhasilan
 
-1. Undefined
+1. Pelatihan pengembangan terlaksana minimal 1 kali dalam 1 kepengurusan
+   dibuktikan dengan dokumentasi kegiatan.
 
 #### Tim Pelaksana
 
-- Undefined
+- Ersan Karimi
+- ...
+- ...
+- ...
 - ...
 
 #### Daftar Yang Harus Dilakukan
 
-- Undefined
+- [ ] Merancang perencanaan pelatihan (Bootcamp) pengembangan terkait minat dan
+      bakat mahasiswa Informatika dan Bisnis Digital ITK berdasarkan dari data
+      yang ada di Mapping Minat dan Bakat Mahasiswa Informatika dan Bisnis
+      Digital ITK.
+- [ ] Membuat form pendaftaran untuk menjadi mentor atau instructor pelatihan
+      (Bootcamp) pengembangan terkait minat dan bakat mahasiswa Informatika dan
+      Bisnis Digital ITK.
+- [ ] Membuat form pendaftaran untuk peserta yang ingin mengikuti pelatihan
+      (Bootcamp) pengembangan terkait minat dan bakat mahasiswa Informatika dan
+      Bisnis Digital ITK sesuai minat mereka.
+- [ ] Melakukan koordinasi dengan mentor atau instructor pelatihan (Bootcamp)
+      pengembangan terkait minat dan bakat mahasiswa Informatika dan Bisnis
+      Digital ITK untuk melakukan koordinasi dan penjelasan mengenai pelatihan
+      (Bootcamp) pengembangan terkait minat dan bakat mahasiswa Informatika dan
+      Bisnis Digital ITK lebih lanjut.
+- [ ] Melakukan koordinasi dengan mentor atau instructor pelatihan (Bootcamp)
+      terkait roadmap (peta belajar) pelatihan (Bootcamp) pengembangan terkait
+      minat dan bakat mahasiswa Informatika dan Bisnis Digital ITK.
+- [ ] Melakukan koordinasi dengan mentor atau instructor pelatihan (Bootcamp)
+      terkait materi pelatihan (Bootcamp) pengembangan terkait minat dan bakat
+      mahasiswa Informatika dan Bisnis Digital ITK.
+- [ ] Melakukan koordinasi dengan BPH HMIF terkait zoom meeting untuk pelatihan
+      (Bootcamp) pengembangan terkait minat dan bakat mahasiswa Informatika dan
+      Bisnis Digital ITK.
+- [ ] Melakukan koordinasi dengan BPH dan MEDFO untuk pembuatan sertifikat bagi
+      peserta dan mentor atau instructor pelatihan sebagai bukti keikutsertaan
+      di pelatihan (Bootcamp) pengembangan terkait minat dan bakat mahasiswa
+      Informatika dan Bisnis Digital ITK.
+- [ ] Melakukan koordinasi dengan MEDFO untuk mempublikasikan form pendaftaran
+      untuk menjadi peserta dan mentor atau instructor pelatihan (Bootcamp)
+      pengembangan terkait minat dan bakat mahasiswa Informatika dan Bisnis
+      Digital ITK di OA HMIF ITK.
+- [ ] Melakukan koordinasi dengan MEDFO untuk mempublikasikan hasil pelatihan
+      seperti video, foto, atau lainnya terkait pelatihan (Bootcamp)
+      pengembangan terkait minat dan bakat mahasiswa Informatika dan Bisnis
+      Digital ITK di OA HMIF ITK.
+- [ ] Melakukan Analisis data hasil pelatihan (Bootcamp) pengembangan terkait
+      minat dan bakat mahasiswa Informatika dan Bisnis Digital ITK untuk
+      mengetahui apakah sudah mencapai [TUK](#tolak-ukur-keberhasilan-3) atau
+      belum.
 
 #### Kebutuhan Dengan Badan atau Departemen Lain
 
-- Undefined
+- Departemen Pengembangan Sumber Daya Mahasiswa (PSDM)
+- Badan Media dan Informasi (MEDFO)
 
 <br/>
 
