@@ -47,4 +47,4 @@ ITK:
 
 - [Pengembangan Minat dan Bakat (Google Drive)](https://drive.google.com/drive/u/2/folders/1H2PgNp9KQC-gVNHROzeJP4Rb3cOi4qLQ)
 - [PMB 2023 Proker Management (GitHub Projects)](https://github.com/orgs/pmb-community/projects/1)
-- [List Program Kerja PMB 2023](./program-kerja/PROGRAM_KERJA.md)
+- [List Program Kerja PMB 2023](./program-kerja/README.md)
