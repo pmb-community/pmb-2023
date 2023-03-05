@@ -13,27 +13,21 @@ pelayanan dan apresiasi bagi mahasiswa HMIF ITK yang unggul dan berprestasi.
 ## Struktur Organisasi
 
 <ul>
-  <li>Ketua: Ersan Karimi</li>
-  <li>Sekretaris: Muhammad Miftahul Asyhar</li>
-  <li>
-    Staff Ahli:
-    <ol>
-      <li>Dhaffa Agusrian Putra</li>
-      <li>Mochamad Sa'adila Effendi</li>
-    </ol>
-  </li>
-  <li>
-    Staff:
-    <ol>
-      <li>Alessandro Benaya Pinem</li>
-      <li>Cynthia Putri Siregar</li>
-      <li>Devan Aprindi Dwicahya</li>
-      <li>Muhammad Rifqiandi</li>
-      <li>Rendi Kurniawan</li>
-      <li>Yahya Wiryateja Sadesi</li>
-    </ol>
-  </li>
+
 </ul>
+
+- Ketua: Ersan Karimi
+- Sekretaris: Muhammad Miftahul Asyhar
+- Staff Ahli:
+  - Dhaffa Agusrian Putra
+  - Mochamad Sa'adila Effendi
+- Staff:
+  - Alessandro Benaya Pinem
+  - Cynthia Putri Siregar
+  - Devan Aprindi Dwicahya
+  - Muhammad Rifqiandi
+  - Rendi Kurniawan
+  - Yahya Wiryateja Sadesi
 
 ## Sumber Daya
 
