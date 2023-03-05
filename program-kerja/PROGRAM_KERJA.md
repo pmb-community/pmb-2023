@@ -56,9 +56,9 @@ Informatika dan Bisnis Digital ITK.
 
 #### Tolak Ukur Keberhasilan
 
-Terkumpulnya data minat dan bakat mahasiswa Informatika dan Bisnis Digital ITK
-minimal 50% dari jumlah Angkatan 2021 dan 2022 yang dibuktikan dengan database
-pemetaan.
+1. Terkumpulnya data minat dan bakat mahasiswa Informatika dan Bisnis Digital
+   ITK minimal 50% dari jumlah Angkatan 2021 dan 2022 yang dibuktikan dengan
+   database pemetaan.
 
 #### Tim Pelaksana
 
