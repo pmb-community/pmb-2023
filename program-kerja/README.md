@@ -40,6 +40,14 @@ Pengembangan Minat dan Bakat (PMB) HMIF ITK 2023.
       - [Tim Pelaksana](#tim-pelaksana-3)
       - [Daftar Yang Harus Dilakukan](#daftar-yang-harus-dilakukan-3)
       - [Kebutuhan Dengan Badan atau Departemen Lain](#kebutuhan-dengan-badan-atau-departemen-lain-3)
+    - [Peningkatan Kompetensi dan Wawasan: Acara Kuliah Tamu HMIF](#peningkatan-kompetensi-dan-wawasan-acara-kuliah-tamu-hmif)
+      - [Deskripsi](#deskripsi-4)
+      - [Tujuan](#tujuan-4)
+      - [Penanggung Jawab](#penanggung-jawab-4)
+      - [Tolak Ukur Keberhasilan](#tolak-ukur-keberhasilan-4)
+      - [Tim Pelaksana](#tim-pelaksana-4)
+      - [Daftar Yang Harus Dilakukan](#daftar-yang-harus-dilakukan-4)
+      - [Kebutuhan Dengan Badan atau Departemen Lain](#kebutuhan-dengan-badan-atau-departemen-lain-4)
 
 <br/>
 
@@ -292,6 +300,87 @@ semangat berkompetisi dan berprestasi.
       minat dan bakat mahasiswa Informatika dan Bisnis Digital ITK untuk
       mengetahui apakah sudah mencapai [TUK](#tolak-ukur-keberhasilan-3) atau
       belum.
+
+#### Kebutuhan Dengan Badan atau Departemen Lain
+
+- Departemen Pengembangan Sumber Daya Mahasiswa (PSDM)
+- Badan Media dan Informasi (MEDFO)
+
+<br/>
+
+**[⬆ kembali ke daftar isi](#daftar-isi)**
+
+<br/>
+
+### Peningkatan Kompetensi dan Wawasan: Acara Kuliah Tamu HMIF
+
+#### Deskripsi
+
+Kegiatan ini diselenggarakan untuk menambah dan memperluas wawasan mahasiswa
+Informatika melalui pembicara yang sesuai dengan bidangnya khususnya di bidang
+Informatika atau Keilmiahan. Diharapkan mahasiswa mendapatkan beberapa ilmu baru
+dan juga pengalaman baru seputar bidang Informatika atau Keilmiahan.
+
+#### Tujuan
+
+1. Menambah dan memperluas wawasan Mahasiswa Informatika dan Bisnis Digital
+   khususnya Informatika melalui pembicara baik dari pembicara eksternal maupun
+   internal (kalangan civitas)
+2. Melatih Mahasiswa dalam berkomunikasi dalam suatu kegiatan keilmiahan
+3. Membangun Jaringan Relasi melalui kegiatan keilmiahan sebagai modal awal
+   dalam masa yang akan datang
+
+#### Penanggung Jawab
+
+- Dhaffa Agusrian Putra
+
+#### Tolak Ukur Keberhasilan
+
+1. Terlaksananya minimal 1 kali kegiatan hackathon dalam kepengurusan HMIF ITK
+   2023 dibuktikan dengan dokumentasi kegiatan.
+2. Dihadiri minimal 20 peserta yang dibuktikan dengan presensi.
+
+#### Tim Pelaksana
+
+- Dhaffa Agusrian Putra
+- ...
+- ...
+- ...
+- ...
+
+#### Daftar Yang Harus Dilakukan
+
+- [ ] Merancang perencanaan kegiatan kuliah tamu HMIF terkait minat dan bakat
+      mahasiswa Informatika dan Bisnis Digital ITK berdasarkan dari data yang
+      ada di Mapping Minat dan Bakat Mahasiswa Informatika dan Bisnis Digital
+      ITK.
+- [ ] Menganalisis data Mapping Minat dan Bakat Mahasiswa Informatika dan Bisnis
+      Digital ITK untuk mengetahui tema kuliah tamu HMIF yang sesuai dengan
+      minat dan bakat mahasiswa Informatika dan Bisnis Digital ITK.
+- [ ] Mencari pembicara yang sesuai dengan tema kuliah tamu HMIF.
+- [ ] Mencari cara untuk menghubungi pembicara yang sesuai dengan tema kuliah
+      tamu HMIF.
+- [ ] Melakukan koordinasi dengan pembicara untuk melakukan koordinasi dan
+      penjelasan mengenai kuliah tamu HMIF lebih lanjut. Dalam koordinasi ini
+      yang dibahas bisa berupa tema, materi, dana yang dibutuhkan, dan
+      lain-lainnya.
+- [ ] Mencari pembawa acara untuk kuliah tamu HMIF.
+- [ ] Membuat perencanaan RAB untuk kegiatan kuliah tamu HMIF. <mark>Jika
+      memerlukan dana untuk mendatangkan pembicaranya</mark>
+- [ ] Membuat form pemetaan terkait tanggal dan waktu kuliah tamu ini diadakan
+      agar kegiatan ini tidak bentrok dengan kegiatan lainnya dan dapat
+      dilaksanakan dengan baik. <mark>Bagian ini dilakukan ketika sudah
+      mendapatkan pembicara untuk kegiatan kuliah tamu HMIF</mark>
+- [ ] Melakukan koordinasi dengan BPH HMIF terkait zoom meeting untuk kuliah
+      tamu HMIF.
+- [ ] Melakukan koordinasi dengan MEDFO untuk mempublikasikan form pemetaan
+      terkait tanggal dan waktu kuliah tamu HMIF di OA HMIF ITK.
+- [ ] Membuat form pendaftaran untuk menjadi peserta kuliah tamu HMIF.
+- [ ] Membuat form presensi untuk peserta kuliah tamu HMIF yang akan diisi oleh
+      peserta di awal atau akhir kegiatan. <mark>Terkait presensi diawal atau
+      akhir ini akan di diskusikan lebih lanjut lagi.</mark>
+- [ ] Menganalisis data hasil kuliah tamu HMIF untuk mengetahui apakah sudah
+      mencapai [TUK](#tolak-ur-keberhasilan-4) atau belum.
 
 #### Kebutuhan Dengan Badan atau Departemen Lain
 
