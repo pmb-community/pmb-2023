@@ -486,8 +486,6 @@ keakraban yang positif.
 
 <br/>
 
-asdasdads
-
 ### Hackathon HMIF
 
 #### Deskripsi
