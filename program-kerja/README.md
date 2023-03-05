@@ -32,6 +32,16 @@ Pengembangan Minat dan Bakat (PMB) HMIF ITK 2023.
       - [Tim Pelaksana](#tim-pelaksana-2)
       - [Daftar Yang Harus Dilakukan](#daftar-yang-harus-dilakukan-2)
       - [Kebutuhan Dengan Badan atau Departemen Lain](#kebutuhan-dengan-badan-atau-departemen-lain-2)
+    - [Program Peningkatan Kompetensi dan Keterampilan](#program-peningkatan-kompetensi-dan-keterampilan)
+      - [Deskripsi](#deskripsi-3)
+      - [Tujuan](#tujuan-3)
+      - [Penanggung Jawab](#penanggung-jawab-3)
+      - [Tolak Ukur Keberhasilan](#tolak-ukur-keberhasilan-3)
+      - [Tim Pelaksana](#tim-pelaksana-3)
+      - [Daftar Yang Harus Dilakukan](#daftar-yang-harus-dilakukan-3)
+      - [Kebutuhan Dengan Badan atau Departemen Lain](#kebutuhan-dengan-badan-atau-departemen-lain-3)
+
+<br/>
 
 ## List Program Kerja
 
@@ -152,23 +162,22 @@ berbagai bidang, baik bidang akademik maupun non-akademik.
 #### Deskripsi
 
 Menyediakan video pembelajaran yang berkualitas tinggi untuk memfasilitasi
-proses pembelajaran siswa. Video-video ini dibuat dengan tujuan untuk memudahkan
-pemahaman siswa dalam konsep-konsep yang sulit, sehingga dapat membantu siswa
-meningkatkan keterampilan akademik mereka dalam berbagai subjek.
+proses pembelajaran mahasiswa. Video-video ini dibuat dengan tujuan untuk
+memudahkan mahasiswa mencari sumber daya (resources) belajar yang mana sumber
+belajar ini akan juga dibuat oleh mahasiswa dari warga HMIF juga, sehingga dapat
+membantu mahasiswa meningkatkan keterampilan akademik, hardskill, softskill
+mereka dalam berbagai bidang atau bidang tertentu.
 
 #### Tujuan
 
-Untuk menyediakan sumber daya belajar berupa video pembelajaran yang berkualitas
-tinggi untuk membantu mahasiswa belajar secara mandiri atau melengkapi
-pembelajaran di sekolah. Video-video tersebut dirancang untuk memudahkan
-pemahaman konsep-konsep yang sulit dan meningkatkan keterampilan akademik siswa
-dalam berbagai subjek. Selain itu, Video Learning Center juga bertujuan untuk
-mempromosikan pendidikan yang inklusif dan merata, sehingga semua siswa memiliki
-kesempatan yang sama untuk belajar dan mencapai kesuksesan akademik.
+Untuk menyediakan sumber daya (resources) belajar agar dapat membantu mahasiswa
+mencari sumber daya belajar terkait bidang atau pelajaran yang ingin atau sedang
+dipelajari.
 
 #### Penanggung Jawab
 
 - Mochamad Sa'adila Effendi
+- ...
 
 #### Tolak Ukur Keberhasilan
 
@@ -185,13 +194,62 @@ kesempatan yang sama untuk belajar dan mencapai kesuksesan akademik.
       nantinya akan dipublikasikan di Youtube HMIF ITK
 - [ ] Melakukan koordinasi dengan MEDFO untuk mempublikasikan form Open
       Recruitment di OA HMIF ITK.
-- [ ] ...
+- [ ] Membuat jadwal meeting dengan mahasiwa yang telah mengisi form Open
+      Recruitment untuk melakukan koordinasi dan penjelasan mengenai Video
+      Learning Center lebih lanjut.
+- [ ] Melakukan koordinasi dengan MEDFO untuk membuat desain cover atau
+      thumbnail video pembelajaran yang akan dipublikasikan di Youtube HMIF ITK.
+- [ ] Menentukan dan membuat database dari hasil video pembelajaran yang sudah
+      di ambil (take atau record) dari mahasiswa yang bertanggung jawab terkait
+      video pembelajaran tersebut untuk memudahkan proses editing video.
+- [ ] Mengedit video pembelajaran yang sudah diambil (take atau record) dari
+      mahasiswa yang bertanggung jawab terkait video pembelajaran tersebut.
+- [ ] Melakukan koordinasi dengan MEDFO untuk mempublikasikan video pembelajaran
+      yang sudah di edit di Youtube HMIF ITK.
 - [ ] Melakukan Analisis data hasil Open Recruitment untuk mengetahui apakah
       sudah mencapai [TUK](#tolak-ukur-keberhasilan-2) atau belum.
 
 #### Kebutuhan Dengan Badan atau Departemen Lain
 
 - Dapertemen Badan Media dan Informasi (MEDFO)
+
+<br/>
+
+**[⬆ kembali ke daftar isi](#daftar-isi)**
+
+<br/>
+
+### Program Peningkatan Kompetensi dan Keterampilan
+
+#### Deskripsi
+
+Undefined
+
+#### Tujuan
+
+Undefined
+
+#### Penanggung Jawab
+
+- Undefined
+- ...
+
+#### Tolak Ukur Keberhasilan
+
+1. Undefined
+
+#### Tim Pelaksana
+
+- Undefined
+- ...
+
+#### Daftar Yang Harus Dilakukan
+
+- Undefined
+
+#### Kebutuhan Dengan Badan atau Departemen Lain
+
+- Undefined
 
 <br/>
 
