@@ -56,6 +56,14 @@ Pengembangan Minat dan Bakat (PMB) HMIF ITK 2023.
       - [Tim Pelaksana](#tim-pelaksana-5)
       - [Daftar Yang Harus Dilakukan](#daftar-yang-harus-dilakukan-5)
       - [Kebutuhan Dengan Badan atau Departemen Lain](#kebutuhan-dengan-badan-atau-departemen-lain-5)
+    - [Hackathon HMIF](#hackathon-hmif)
+      - [Deskripsi](#deskripsi-6)
+      - [Tujuan](#tujuan-6)
+      - [Penanggung Jawab](#penanggung-jawab-6)
+      - [Tolak Ukur Keberhasilan](#tolak-ukur-keberhasilan-6)
+      - [Tim Pelaksana](#tim-pelaksana-6)
+      - [Daftar Yang Harus Dilakukan](#daftar-yang-harus-dilakukan-6)
+      - [Kebutuhan Dengan Badan atau Departemen Lain](#kebutuhan-dengan-badan-atau-departemen-lain-6)
 
 <br/>
 
@@ -470,6 +478,62 @@ keakraban yang positif.
 #### Kebutuhan Dengan Badan atau Departemen Lain
 
 - Departemen Pengembangan Sumber Daya Mahasiswa (PSDM)
+- Badan Media dan Informasi (MEDFO)
+
+<br/>
+
+**[⬆ kembali ke daftar isi](#daftar-isi)**
+
+<br/>
+
+asdasdads
+
+### Hackathon HMIF
+
+#### Deskripsi
+
+Kegiatan ini diselenggarakan untuk mengasah skill dengan mengadu kemampuan
+mahasiswa Informatika pada ajang ini untuk mempersiapkan mahasiswa-mahasiswa
+pada ajang kompetitif lainnya.
+
+#### Tujuan
+
+1. Menjadi ajang bagi para mahasiswa untuk menunjukkan kemampuannya
+2. Membangun sebuah jaringan relasi dengan adanya tim-tim yang terbuat untuk
+   berkompetisi.
+
+#### Penanggung Jawab
+
+- Dhaffa Agus
+
+#### Tolak Ukur Keberhasilan
+
+1. Terlaksananya minimal 1 kali kegiatan Hackaton HMIF dalam kepengurusan HMIF
+   ITK 2023 dibuktikan dengan dokumentasi kegiatan.
+2. Dihadiri minimal 5 tim dimana satu tim berjumlahkan 3 anggota peserta yang
+   dibuktikan dengan form pendaftaran.
+
+#### Tim Pelaksana
+
+- Dhaffa Agusrian Putra
+- ...
+- ...
+- ...
+- ...
+- ...
+
+#### Daftar Yang Harus Dilakukan
+
+- [ ] Merancang perencanaan kegiatan Hackathon HMIF yang akan dilakukan
+      nantinya.
+- [ ] Mencari dosen untuk menjadi pembina dari kegiatan Hackaton tersebut.
+- [ ] Mencari sponsor untuk kegiatan Hackathon HMIF ini (<mark>jika
+      memungkinkan</mark>).
+- [ ] ...
+
+#### Kebutuhan Dengan Badan atau Departemen Lain
+
+- Departemen Dalam Negeri (DAGRI)
 - Badan Media dan Informasi (MEDFO)
 
 <br/>
