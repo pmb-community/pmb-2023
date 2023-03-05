@@ -48,6 +48,14 @@ Pengembangan Minat dan Bakat (PMB) HMIF ITK 2023.
       - [Tim Pelaksana](#tim-pelaksana-4)
       - [Daftar Yang Harus Dilakukan](#daftar-yang-harus-dilakukan-4)
       - [Kebutuhan Dengan Badan atau Departemen Lain](#kebutuhan-dengan-badan-atau-departemen-lain-4)
+    - [Ngobrol Santai](#ngobrol-santai)
+      - [Deskripsi](#deskripsi-5)
+      - [Tujuan](#tujuan-5)
+      - [Penanggung Jawab](#penanggung-jawab-5)
+      - [Tolak Ukur Keberhasilan](#tolak-ukur-keberhasilan-5)
+      - [Tim Pelaksana](#tim-pelaksana-5)
+      - [Daftar Yang Harus Dilakukan](#daftar-yang-harus-dilakukan-5)
+      - [Kebutuhan Dengan Badan atau Departemen Lain](#kebutuhan-dengan-badan-atau-departemen-lain-5)
 
 <br/>
 
@@ -381,6 +389,83 @@ dan juga pengalaman baru seputar bidang Informatika atau Keilmiahan.
       akhir ini akan di diskusikan lebih lanjut lagi.</mark>
 - [ ] Menganalisis data hasil kuliah tamu HMIF untuk mengetahui apakah sudah
       mencapai [TUK](#tolak-ur-keberhasilan-4) atau belum.
+
+#### Kebutuhan Dengan Badan atau Departemen Lain
+
+- Departemen Pengembangan Sumber Daya Mahasiswa (PSDM)
+- Badan Media dan Informasi (MEDFO)
+
+<br/>
+
+**[⬆ kembali ke daftar isi](#daftar-isi)**
+
+<br/>
+
+### Ngobrol Santai
+
+#### Deskripsi
+
+Kegiatan ini bertujuan untuk meningkatkan keterampilan berbicara dan
+mendengarkan, mengembangkan kemampuan berdiskusi, serta meningkatkan wawasan
+mahasiswa Informatika dan Bisnis Digital terhadap isu-isu yang berkaitan dengan
+prodi atau diluar dari itu. Selain itu, kegiatan ini juga bertujuan untuk
+mempererat hubungan di antara warga HMIF, sehingga tercipta rasa kebersamaan dan
+keakraban yang positif.
+
+#### Tujuan
+
+1. Memberikan ruang bagi mahasiswa Informatika dan Bisnis Digital untuk
+   memperoleh informasi baru seputar topik yang dibahas.
+2. Memberikan hiburan dan waktu yang menyenangkan bagi mahasiswa Informatika dan
+   Bisnis Digital di tengah kesibukan kuliah atau kegiatan akademik lainnya.
+
+#### Penanggung Jawab
+
+- Ersan Karimi
+
+#### Tolak Ukur Keberhasilan
+
+1. Terlaksananya minimal 1 kali kegiatan Ngobrol Santai ini selama kepengurusan
+   HMIF ITK 2023 dibuktikan dengan dokumentasi kegiatan.
+2. Dihadiri minimal 10 peserta yang dibuktikan dengan presensi.
+
+#### Tim Pelaksana
+
+- Ersan Karimi
+- ...
+- ...
+
+#### Daftar Yang Harus Dilakukan
+
+- [ ] Merancang perencanaan kegiatan Ngobrol Santai yang akan dilakukan
+      nantinya.
+- [ ] Menentukan tema Ngobrol Santai yang akan dilakukan nantinya berdasarkan
+      data Mapping Kompetensi dan Minat atau melakukan survey terhadap mahasiswa
+      Informatika dan Bisnis Digital ITK.
+- [ ] Membuat form pemetaan terkait tanggal dan waktu Ngobrol Santai ini
+      diadakan agar kegiatan ini tidak bentrok dengan kegiatan lainnya dan dapat
+      dilaksanakan dengan baik.
+- [ ] Membuat form survei terkait tema Ngobrol Santai yang akan dilakukan
+      nantinya.
+- [ ] Membuat form pendaftaran untuk menjadi peserta Ngobrol Santai.
+- [ ] Menentukan apakah kegiatan Ngobrol Santai ini akan dilakukan secara online
+      atau offline.
+- [ ] Melakukan koordinasi dengan BPH HMIF terkait zoom meeting untuk Ngobrol
+      Santai. <mark>Jika dilakukan secara online.</mark>
+- [ ] Melakukan koordinasi dengan [Tim Pelaksana](#tim-pelaksana-5) terkait
+      ruangan untuk dilakukannya kegiatan Ngobrol Santai. <mark>Jika dilakukan
+      secara offline.</mark>
+- [ ] Membuat form presensi untuk peserta Ngobrol Santai yang akan diisi oleh
+      peserta di awal atau akhir kegiatan. <mark>Terkait presensi diawal atau
+      akhir ini akan di diskusikan lebih lanjut lagi. Jika presensi dilakukan
+      diakhir maka akan disertakan juga field untuk Kesan dan Pesan terkait
+      kegiatan Ngobrol Santai yang sudah dilaksanakan.</mark>
+- [ ] Melakukan koordinasi dengan MEDFO untuk mempublikasikan form pendaftaran
+      untuk menjadi peserta Ngobrol Santai di OA HMIF ITK.
+- [ ] Melakukan koordinasi dengan MEDFO untuk mempublikasikan form pemetaan dan
+      survei terkait tema Ngobrol Santai di OA HMIF ITK.
+- [ ] Menganalisis data hasil Ngobrol Santai untuk mengetahui apakah sudah
+      mencapai [TUK](#tolak-ur-keberhasilan-5) atau belum.
 
 #### Kebutuhan Dengan Badan atau Departemen Lain
 
