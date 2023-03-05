@@ -336,8 +336,8 @@ dan juga pengalaman baru seputar bidang Informatika atau Keilmiahan.
 
 #### Tolak Ukur Keberhasilan
 
-1. Terlaksananya minimal 1 kali kegiatan hackathon dalam kepengurusan HMIF ITK
-   2023 dibuktikan dengan dokumentasi kegiatan.
+1. Terlaksananya minimal 1 kali kegiatan kuliah tamu HMIF dalam kepengurusan
+   HMIF ITK 2023 dibuktikan dengan dokumentasi kegiatan.
 2. Dihadiri minimal 20 peserta yang dibuktikan dengan presensi.
 
 #### Tim Pelaksana
