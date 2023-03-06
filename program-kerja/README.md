@@ -97,7 +97,12 @@ Informatika dan Bisnis Digital ITK.
 #### Tim Pelaksana
 
 - Muhammad Miftahul Asyhar
-- ...
+- Dhaffa Agusrian Putra
+- Alessandro Benaya Pinem
+- Cynthia Putri Siregar
+- Devan Apriandi Dwicahya
+- Muhammad Rifqiandi
+- Rendi Kurniawan Yahya Wiryateja Sadesi
 
 #### Daftar Yang Harus Dilakukan
 
@@ -159,7 +164,12 @@ berbagai bidang, baik bidang akademik maupun non-akademik.
 #### Tim Pelaksana
 
 - Muhammad Miftahul Asyhar
-- ...
+- Alessandro Benaya Pinem
+- Cynthia Putri Siregar
+- Devan Apriandi Dwicahya
+- Muhammad Rifqiandi
+- Mochamad Sa'adila Effendi
+- Rendi Kurniawan
 
 #### Daftar Yang Harus Dilakukan
 
@@ -214,7 +224,9 @@ dipelajari.
 #### Tim Pelaksana
 
 - Mohammad Sa'adila Effendi
-- ...
+- Dhaffa Agusrian Putra
+- Ersan Karimi
+- Yahya Wiryateja Sadesi
 
 #### Daftar Yang Harus Dilakukan
 
