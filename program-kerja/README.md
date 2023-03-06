@@ -105,6 +105,9 @@ Informatika dan Bisnis Digital ITK.
       Digital ITK.
 - [ ] Mengumpulkan data pemetaan minat dan bakat mahasiswa Informatika dan
       Bisnis Digital ITK.
+- [ ] Mengumpulkan data jumlah dari masing-masing angkatan 2021 dan 2022 dari
+      prodi Informatika dan Bisnis Digital ITK. Lalu mencari jumlah dari 50%
+      dari jumlah mahasiswa tersebut.
 - [ ] Melakukan analisis data pemetaan minat dan bakat mahasiswa Informatika dan
       Bisnis Digital ITK.
 - [ ] Melakukan koordinasi dengan MEDFO untuk memposting form pemetaan minat dan
