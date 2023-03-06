@@ -280,6 +280,9 @@ semangat berkompetisi dan berprestasi.
       bakat mahasiswa Informatika dan Bisnis Digital ITK berdasarkan dari data
       yang ada di Mapping Minat dan Bakat Mahasiswa Informatika dan Bisnis
       Digital ITK.
+- [ ] Melakukan perancangan dan persiapan pelatihan dengan pihak ketiga seperti
+      yang sekarang ini bisa dimanfaatkan seperti Skilvul, BuiltWith Angga,
+      programmer_males, dan lainnya jika ada yang lain.
 - [ ] Membuat form pendaftaran untuk menjadi mentor atau instructor pelatihan
       (Bootcamp) pengembangan terkait minat dan bakat mahasiswa Informatika dan
       Bisnis Digital ITK.
