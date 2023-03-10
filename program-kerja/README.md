@@ -102,7 +102,8 @@ Informatika dan Bisnis Digital ITK.
 - Cynthia Putri Siregar
 - Devan Apriandi Dwicahya
 - Muhammad Rifqiandi
-- Rendi Kurniawan Yahya Wiryateja Sadesi
+- Rendi Kurniawan 
+- Yahya Wiryateja Sadesi
 
 #### Daftar Yang Harus Dilakukan
 
@@ -284,7 +285,7 @@ semangat berkompetisi dan berprestasi.
 #### Tim Pelaksana
 
 - Ersan Karimi
-- ...
+- Yahya Wiryateja Sadesi
 - ...
 - ...
 - ...
