@@ -102,7 +102,7 @@ Informatika dan Bisnis Digital ITK.
 - Cynthia Putri Siregar
 - Devan Apriandi Dwicahya
 - Muhammad Rifqiandi
-- Rendi Kurniawan 
+- Rendi Kurniawan
 - Yahya Wiryateja Sadesi
 
 #### Daftar Yang Harus Dilakukan
@@ -286,7 +286,7 @@ semangat berkompetisi dan berprestasi.
 
 - Ersan Karimi
 - Yahya Wiryateja Sadesi
-- ...
+- Devan Apriandi Dwicahya
 - ...
 - ...
 
@@ -378,8 +378,8 @@ dan juga pengalaman baru seputar bidang Informatika atau Keilmiahan.
 #### Tim Pelaksana
 
 - Dhaffa Agusrian Putra
-- ...
-- ...
+- Ersan Karimi
+- Muhammad Rifqiandi
 - ...
 - ...
 
@@ -459,8 +459,10 @@ keakraban yang positif.
 #### Tim Pelaksana
 
 - Ersan Karimi
-- ...
-- ...
+- Muhammad Miftahul Asyhar
+- Yahya Wiryateja Sadesi
+- Rendi Kurniawan
+- Muhammad Rifqiandi
 
 #### Daftar Yang Harus Dilakukan
 
@@ -521,7 +523,7 @@ pada ajang kompetitif lainnya.
 
 #### Penanggung Jawab
 
-- Dhaffa Agus
+- Dhaffa Agusrian Putra
 
 #### Tolak Ukur Keberhasilan
 
@@ -533,7 +535,7 @@ pada ajang kompetitif lainnya.
 #### Tim Pelaksana
 
 - Dhaffa Agusrian Putra
-- ...
+- Devan Apriandi Dwicahya
 - ...
 - ...
 - ...
