@@ -287,8 +287,6 @@ semangat berkompetisi dan berprestasi.
 - Ersan Karimi
 - Yahya Wiryateja Sadesi
 - Devan Apriandi Dwicahya
-- ...
-- ...
 
 #### Daftar Yang Harus Dilakukan
 
@@ -380,8 +378,6 @@ dan juga pengalaman baru seputar bidang Informatika atau Keilmiahan.
 - Dhaffa Agusrian Putra
 - Ersan Karimi
 - Muhammad Rifqiandi
-- ...
-- ...
 
 #### Daftar Yang Harus Dilakukan
 
@@ -536,10 +532,7 @@ pada ajang kompetitif lainnya.
 
 - Dhaffa Agusrian Putra
 - Devan Apriandi Dwicahya
-- ...
-- ...
-- ...
-- ...
+- Ersan Karimi
 
 #### Daftar Yang Harus Dilakukan
 
