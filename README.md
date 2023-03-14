@@ -42,6 +42,7 @@ ITK:
 - [SOP Administrasi dan Keuangan ](https://docs.google.com/presentation/d/1rfumrQa3hIF2GZ-Qncx6p0fRCACXX16PBx9Rdt1b0X4/edit?usp=share_link)
 - [SOP Kepengurusan HMIF 2023](https://docs.google.com/presentation/d/1hmoaGV_Bc9XI93HFcNFYql3xVV2ZLyVeZP5HOz2Gsfc/edit#slide=id.g2138619bcad_3_0)
 - [Sosialisasi SOP HMIF ITK ](https://docs.google.com/presentation/d/1vGij6W3QMvl39Jpf08cChtfQRIcJ_QzRdYXGAgIqgWE/edit#slide=id.g2138619bcad_3_0)
+- [Template PPT INQUARES](https://docs.google.com/presentation/d/15pclbd_LboCdIsaC3faOlBSXNCIvjJxlnx6pHYjD3LY/edit#slide=id.g2138619bcad_3_0)
 
 ### PMB
 
